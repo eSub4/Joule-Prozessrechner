@@ -110,7 +110,7 @@ Bei sehr hohen Temperaturen können die Stoffwertkorrelationen ungenau werden
 📝 Lizenz
 Dieses Projekt ist unter der Apache Lizenz lizenziert - siehe LICENSE Datei für Details.
 
-👥 Autoren
+👥 Autor
 Till Jonas Wellkamp
 
 Basierend auf thermodynamischen Grundlagen aus der Technischen Thermodynamik
