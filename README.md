@@ -83,7 +83,7 @@ Logarithmische Skalierung für p-v-Diagramme
 
 🤝 Beitragen
 Beiträge sind willkommen! Bitte erstellen Sie einen Fork des Repositories und reichen Sie Pull Requests ein.
-Entwicklungsrichtlinien
+
 
 Code sollte PEP 8 konform sein
 Neue Features sollten dokumentiert werden
@@ -104,7 +104,6 @@ Mit Zwischenkühlung: Reduzierung der Verdichterarbeit durch mehrstufige Verdich
 
 🐛 Bekannte Probleme
 
-PDF-Export erfordert die Installation von fpdf
 Bei sehr hohen Temperaturen können die Stoffwertkorrelationen ungenau werden
 
 📝 Lizenz
